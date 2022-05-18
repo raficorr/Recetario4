@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T18:02:32.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="CTRK_ExxgC7SRPVGe7Rq" type="github"><diagram id="9KcUxUaSktusvVjR58gS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-18T11:21:13.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="yTm3M7BiOaSzPPNcFWqu" version="18.0.7" type="github">
+  <diagram id="9KcUxUaSktusvVjR58gS" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="il0zhyKihZIhzKUbigZC-1" value="Museums" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-3" value="Exhibiition" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="il0zhyKihZIhzKUbigZC-2">
+          <mxGeometry width="130" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-4" value="Create exhibition" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="il0zhyKihZIhzKUbigZC-2">
+          <mxGeometry width="130" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-8" value="Name of exhibition&#xa;" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="295" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-9" value="Rafael" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="295" y="240" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-16" value="100" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-21" value="name of artkork" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-24" value="Save" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-26" value="add artkork" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-28" value="Dogs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-30" value="id " style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-31" value="100" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-32" value="id " style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="195" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-34" value="Year" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-35" value="1975" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-36" value="Brett Whiteley deeply connected &lt;br&gt;to animals since childhood." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-37" value="Description" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-38" value="Type" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-39" value="Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="830" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-40" value="101" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-41" value="name of artkork" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-42" value="Self portrait in studio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-43" value="id " style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-44" value="Year" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-45" value="1975" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-46" value="Brett Whiteley deeply connected &lt;br&gt;to animals since childhood." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-47" value="Description" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-48" value="Type" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="395" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-49" value="Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="830" y="430" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il0zhyKihZIhzKUbigZC-50" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
